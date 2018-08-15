@@ -1,0 +1,15 @@
+{
+	"name": "virtualitour-functions-cloud",
+	"version": "1.0.0",
+	"description": "Different function cloud for processing images in virtualitour",
+	"author": "Andres Jorquera",
+	"license": "MIT",
+	"scripts": {
+		"test": "echo 'Linting...' && lerna run lint && echo 'Testing...' && lerna run ci-test"
+	},
+	"devDependencies": {
+		"eslint": "^4.17.0",
+		"eslint-plugin-promise": "^3.8.0",
+		"lerna": "3.0.5"
+	}
+}

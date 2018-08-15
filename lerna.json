@@ -1,0 +1,7 @@
+{
+	"lerna": "3.0.5",
+	"packages": [
+	  "change-img-projection/functions"
+	],
+	"version": "1.0.0"
+  }
